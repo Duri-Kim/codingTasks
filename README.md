@@ -26,7 +26,7 @@ No additional libraries are required, as `sqlite3` is included in the Python Sta
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/codingTasks.git
+    git clone https://github.com/Duri-Kim/codingTasks.git
     cd codingTasks
     ```
 
